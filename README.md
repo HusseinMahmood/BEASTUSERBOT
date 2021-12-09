@@ -1,31 +1,30 @@
-# MAHADEV X USERBOT
+# BEAST USERBOT
 
 A POWERFUL AND SUPER USERBOT.......
 <p align="center">
-  <a href="https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/fork">
+  <a href="https://github.com/BEASTUSERBOT/BEASTUSERBOT/fork">
     
 
 
-![MAHADEV X USERBOT](https://telegra.ph/file/f6ce93cb39a345085b6b9.jpg)
+![𝗕𝗘𝗔𝗦𝗧 𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://telegra.ph/file/b4602e3482823c1f31898.jpg)
 
 ### Group Support 🔥🇮🇳🇮🇳
 `
 Click the button below to join our support group`
-   <a href="https://t.me/MAHADEV_X_USERBOT"><img src="https://img.shields.io/badge/Grup%20Support%3F-MAHADEV-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+   <a href="https://t.me/BeastUSERBOT"><img src="https://img.shields.io/badge/Grup%20Support%3F-MAHADEV-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-__Repository create by [RAM/SIDDHARTH](TANDAV_X_MAHADEV_BAM_BHOLE)__
-
+__Repository create by [𝗘𝗩𝗜𝗟 𝗕𝗘𝗔𝗦𝗧]
 
 
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS)
+[![Deploy](https://telegra.ph/file/fa7587b26825a8c02d474.jpg)](https://heroku.com/deploy?template=https://github.com/BEASTUSERBOT/BEASTUSERBOT)
 
 ### String Session 🖇
 `
 Click the button next to create your strings`
-[![repl](https://telegra.ph/file/62955e5fffbd9f245f070.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
+[![repl](https://telegra.ph/file/a0bb6fc7a7401e1bbd42c.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
     
 ------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
